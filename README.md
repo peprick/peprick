@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peprick
 - 👀 I’m interested in competitive coding, AI and fullstack development.
-- 🌱 I’m currently a 2nd year student pursuing Electrical Engineering from NIT Rourkela.
+- 🌱 2nd year student pursuing Electrical Engineering from NIT Rourkela.
 
  📫 How to reach me ... LinkedIN : https://www.linkedin.com/in/sagarnil-chakraborty-26a035199/
 
