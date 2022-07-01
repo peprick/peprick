@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @peprick
+- 👋 Hi, I’m Sagarnil
 - 👀 I’m interested in competitive coding, machine learning and AI.
 - 🌱 3rd year student pursuing Electrical Engineering from NIT Rourkela.
 
