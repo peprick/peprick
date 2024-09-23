@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sagarnil
-- 👀 I’m interested in competitive coding, machine learning and AI.
-- 🌱 3rd year student pursuing Electrical Engineering from NIT Rourkela.
+- 👀 I’m interested in software engineering, competitive coding, and AI.
+- 🌱 Developer at Oracle
 
- 📫 How to reach me ... LinkedIN : https://www.linkedin.com/in/sagarnil-chakraborty-26a035199/
+ 📫 How to reach me ... linkein : https://www.linkedin.com/in/sagarnil-chakraborty-26a035199/
 
 <!---
 peprick/peprick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
